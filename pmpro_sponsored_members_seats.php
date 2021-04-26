@@ -1,3 +1,5 @@
+<?php
+
 /*
 Define the global array below for your main accounts and sponsored levels.
 Array keys should be the main account level.

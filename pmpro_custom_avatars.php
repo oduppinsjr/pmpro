@@ -1,3 +1,5 @@
+<?php
+
 /*
  * Allow members to upload their avatar using a Register Helper field during checkout or on the Member Profile Edit page.
  *

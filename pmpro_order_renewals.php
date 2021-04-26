@@ -1,3 +1,5 @@
+<?php
+
 /*
  * Adds a "Renewal" column to the Orders list and order CSV export
  * to show if the order is a membership renewal.

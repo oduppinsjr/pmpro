@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Add custom fields to Paid Memberships Pro checkout page.
  * Must have PMPro & Register Helper Add On installed and activated to work.

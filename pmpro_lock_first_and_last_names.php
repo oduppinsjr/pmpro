@@ -1,3 +1,5 @@
+<?php
+
 /**
  * This recipe assigns the readonly attribute to the fields
  * first_name and last_name on the PMPro profile edit page

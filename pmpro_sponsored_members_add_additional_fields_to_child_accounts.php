@@ -1,3 +1,5 @@
+<?php
+
 /*
 	Code demo on using pmprosm_children_fields() and pmprosm_after_child_created() hooks to add additional fields to checkout child account creation.
 	Adds shipping fields to child accounts at checkout. Use PMPro Shipping Address on Membership Checkout to view
